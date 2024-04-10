@@ -1,0 +1,4 @@
+abstract_class.Rect
+abstract_class.Circle
+abstract_class.Program
+abstract_class.Shape

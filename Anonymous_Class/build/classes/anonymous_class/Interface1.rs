@@ -1,0 +1,3 @@
+anonymous_class.Anonymous1$1
+anonymous_class.Anonymous1
+anonymous_class.Interface1
